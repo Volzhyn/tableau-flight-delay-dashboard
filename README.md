@@ -56,7 +56,6 @@ Download the .twbx for local edits (requires Tableau Desktop).
 4. For code extensions: See my Python projects for SQL/ETL automation.
 
 ## 📈 Related Projects
-- [Power BI Sales & Logistics Dashboard](https://github.com/Volzhyn/powerbi-sales-logistics-dashboard) — BI for business ops.
 - [CRM Data Analysis](https://github.com/Volzhyn/unified-dashboard) — Python/SQL optimization for education cohorts.
 - [Product Analytics Cohorts](https://github.com/Volzhyn/Product-Analytics-Cohorts) — Retention and funnel viz.
 
